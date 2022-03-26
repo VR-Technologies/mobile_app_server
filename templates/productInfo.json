@@ -1,0 +1,24 @@
+[
+    {
+        "item": "item11",
+        "price":"1200Rs",
+        "quantity":"500g",
+        "description":"A product description is a form of marketing copy used to describe and explain the benefits of your product. In other words, it provides all the information and details of your product on your ecommerce site. These product details can be one sentence, a short paragraph or bulleted. They can be serious, funny or quirky",
+        "image":"",
+        "rating":"",
+        "comments":"",
+        "actions":[
+            {
+                "type":"button",
+                "label":"Add to Cart",
+                "status":"active"
+            },
+            {
+                "type":"button",
+                "label":"Buy",
+                "status":"active"
+            }
+        ],
+        "productUrl":""
+    }
+]

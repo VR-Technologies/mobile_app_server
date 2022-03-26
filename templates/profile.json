@@ -1,0 +1,35 @@
+{
+  "active": {
+    "type": "flask",
+    "color": "green",
+    "status": "23%"
+  },
+  "tiles": {
+    "myDevices": {
+      "title": "My Device",
+      "url": "/myDevices",
+      "devices": {
+        "flask1": "Active",
+        "flask2": "Disabled"
+      },
+      "buttonType": "view"
+    },
+    "myOrder": {
+      "title": "My Orders",
+      "url": "/myOrders",
+      "buttonType": "View",
+      "devices": {
+        "flask1": "In Porgress",
+        "flask2": "Order Placed"
+      }
+    },
+    "alerts": {
+      "title": "Alert Settings",
+      "url": "/myAlerts",
+      "devices": {
+        "flask1": "20%",
+        "flask2": "45%"
+      }
+    }
+  }
+}
